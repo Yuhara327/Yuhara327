@@ -1,2 +1,2 @@
 Japanese High School Student
-Larning swift
+I'm interested in swift.
